@@ -1,4 +1,4 @@
-inp = open('input01.txt').read().split('\n')
+inp = open('InputData.txt').read().split('\n')
 
 def validatePassword(lowestRate, highestRate, keyword, password):
     # print(password.count(keyword), keyword)
